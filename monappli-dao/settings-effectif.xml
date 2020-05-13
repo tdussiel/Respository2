@@ -1,0 +1,4 @@
+[ERROR] Error executing Maven.
+[ERROR] 1 problem was encountered while building the effective settings
+[FATAL] Non-parseable settings C:\Users\thierry\.m2\settings.xml: end tag name </profiles> must match start tag name <profile> from line 25 (position: TEXT seen ...<profile>\r\n</profiles>... @26:12)  @ C:\Users\thierry\.m2\settings.xml, line 26, column 12
+
